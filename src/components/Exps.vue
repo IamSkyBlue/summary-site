@@ -101,7 +101,6 @@
                 >日常隨筆.md</a
               ></v-col
             >
-            <v-col class="text-h6" cols="12">◾ 軟體工程學程認證</v-col>
           </v-row>
         </v-card-text>
       </v-card>
