@@ -68,6 +68,15 @@
                 Scheme For UWSN</a
               ></v-col
             >
+            <v-col class="text-h6" cols="12"
+              >◾
+              <a
+                href="https://dl.acm.org/doi/10.1145/3627050.3630734"
+                target="_blank"
+                >A Load-Aware Source Location Privacy Protection Scheme for
+                Underwater Sensor Networks</a
+              ></v-col
+            >
           </v-row>
         </v-card-text>
       </v-card>
