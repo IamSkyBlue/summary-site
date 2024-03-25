@@ -96,9 +96,7 @@
                 href="https://iamskyblue.github.io/ll_collection_web/"
                 target="_blank"
                 >玩具模型收藏</a
-              >、<a
-                href="https://hackmd.io/@IamSkyBlue?tags=%5B%22%E6%97%A5%E5%B8%B8%E9%9A%A8%E7%AD%86%22%5D"
-                target="_blank"
+              >、<a href="https://about.iamskyblue.work/" target="_blank"
                 >This</a
               ></v-col
             >
